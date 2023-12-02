@@ -1,0 +1,6 @@
+@BackgroundProcessorExample_HostAddress = http://localhost:5277
+
+GET {{BackgroundProcessorExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
